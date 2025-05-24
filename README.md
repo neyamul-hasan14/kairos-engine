@@ -4,7 +4,7 @@ A futuristic time travel social network platform that connects travelers across 
 
 ## The Story
 
-![Story Image](path/to/your/story-image.png)
+![Story Image](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/story.png)
 
 ## ✨ Features
 
