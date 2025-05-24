@@ -94,11 +94,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Kazi Neyamul Hasan** - *Initial work* - [@neyamul-hasan14](https://github.com/neyamul-hasan14)
+- **Kazi Neyamul Hasan** - [@neyamul-hasan14](https://github.com/neyamul-hasan14)
 
 ---
 
 
 [![GitHub followers](https://img.shields.io/github/followers/neyamul-hasan14?label=Follow&style=social)](https://github.com/neyamul-hasan14)
-[![GitHub stars](https://img-camo.githubusercontent.com/5f45a52c3d3c49662870f1420d15124ff064b086a7f490ca3357811318288b71/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f6e6579616d756c2d686173616e31343f7374796c653d736f6369616c)](https://github.com/neyamul-hasan14)
-
