@@ -95,6 +95,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **[Kazi Neyamul Hasan](https://neyamul-hasan14.github.io/Neyamul-Hasan-Portfolio/)** - [@neyamul-hasan14](https://github.com/neyamul-hasan14)
+>>**[Neyamul Hasan](https://www.youtube.com/@iamneyamulhasan)**<<
 
 ---
 
