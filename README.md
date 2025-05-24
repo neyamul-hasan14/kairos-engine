@@ -23,20 +23,20 @@ Here are some screenshots showcasing the Project Kairos interface.
 
 ![Index Screenshot 1](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%201.png)
 ![Index Screenshot 2](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%202.png)
-![Index Screenshot 3](path/to/your/index-screenshot-3.png)
+![Index Screenshot 3](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%203.png)
 
 ### User Section
 
 Replace these placeholders with links to your user section screenshots:
 
-![User Section Screenshot 1](path/to/your/user-screenshot-1.png)
-![User Section Screenshot 2](path/to/your/user-screenshot-2.png)
-![User Section Screenshot 3](path/to/your/user-screenshot-3.png)
-![User Section Screenshot 4](path/to/your/user-screenshot-4.png)
-![User Section Screenshot 5](path/to/your/user-screenshot-5.png)
-![User Section Screenshot 6](path/to/your/user-screenshot-6.png)
-![User Section Screenshot 7](path/to/your/user-screenshot-7.png)
-![User Section Screenshot 8](path/to/your/user-screenshot-8.png) 
+![User Section Screenshot 1](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%204.png)
+![User Section Screenshot 2](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/Kairos%205.png)
+![User Section Screenshot 3](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%206.png)
+![User Section Screenshot 4](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%207.png)
+![User Section Screenshot 5](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%208.png)
+![User Section Screenshot 6](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%209.png)
+![User Section Screenshot 7](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%2010.png)
+![User Section Screenshot 8](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%2011.png) 
 
 
 
