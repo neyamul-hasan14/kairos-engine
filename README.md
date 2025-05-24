@@ -21,10 +21,8 @@ Here are some screenshots showcasing the Project Kairos interface.
 
 ### Index Page
 
-Replace these placeholders with links to your index page screenshots:
-
 ![Index Screenshot 1](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%201.png)
-![Index Screenshot 2](path/to/your/index-screenshot-2.png)
+![Index Screenshot 2](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%202.png)
 ![Index Screenshot 3](path/to/your/index-screenshot-3.png)
 
 ### User Section
