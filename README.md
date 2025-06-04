@@ -4,7 +4,7 @@ A futuristic time travel social network platform that connects travelers across 
 
 ## The Story
 
-![Story Image](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/story.png)
+![Story Image](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/story.png)
 
 ## ✨ Features
 
@@ -21,22 +21,22 @@ Here are some screenshots showcasing the Project Kairos interface.
 
 ### Index Page
 
-![Index Screenshot 1](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%201.png)
-![Index Screenshot 2](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%202.png)
-![Index Screenshot 3](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%203.png)
+![Index Screenshot 1](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%201.png)
+![Index Screenshot 2](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%202.png)
+![Index Screenshot 3](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/Index%20page/Kairos%203.png)
 
 ### User Section
 
 Replace these placeholders with links to your user section screenshots:
 
-![User Section Screenshot 1](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%204.png)
-![User Section Screenshot 2](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/Kairos%205.png)
-![User Section Screenshot 3](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%206.png)
-![User Section Screenshot 4](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%207.png)
-![User Section Screenshot 5](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%208.png)
-![User Section Screenshot 6](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%209.png)
-![User Section Screenshot 7](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%2010.png)
-![User Section Screenshot 8](https://github.com/neyamul-hasan14/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%2011.png) 
+![User Section Screenshot 1](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%204.png)
+![User Section Screenshot 2](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/Kairos%205.png)
+![User Section Screenshot 3](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%206.png)
+![User Section Screenshot 4](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%207.png)
+![User Section Screenshot 5](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%208.png)
+![User Section Screenshot 6](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%209.png)
+![User Section Screenshot 7](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%2010.png)
+![User Section Screenshot 8](https://github.com/neyamulhasan/kairos-engine/blob/main/Project%20Sample_SS/User%20Page/kairos%2011.png) 
 
 
 
@@ -94,10 +94,10 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 
 ## 👥 Authors
 
-- **[Kazi Neyamul Hasan](https://neyamulhasan.github.io/neyamulhasan-site/)** - [@neyamul-hasan14](https://github.com/neyamulhasan)
+- **[Kazi Neyamul Hasan](https://neyamulhasan.github.io/neyamulhasan-site/)** - [@neyamulhasan](https://github.com/neyamulhasan)
 >>**[Neyamul Hasan](https://www.youtube.com/@iamneyamulhasan)**<<
 
 ---
 
 
-[![GitHub followers](https://img.shields.io/github/followers/neyamul-hasan14?label=Follow&style=social)](https://github.com/neyamul-hasan14)
+[![GitHub followers](https://img.shields.io/github/followers/neyamulhasan?label=Follow&style=social)](https://github.com/neyamulhasan)
