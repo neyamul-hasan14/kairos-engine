@@ -50,7 +50,7 @@ Replace these placeholders with links to your user section screenshots:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/neyamul-hasan14/kairos-engine.git
+git clone https://github.com/neyamulhasan/kairos-engine.git
 ```
 
 2. Configure the database:
